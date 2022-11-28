@@ -1,2 +1,2 @@
-# terraform-iac
-Implement Terraform IAC DevOps for AWS Project with AWS CodePipeline
+# terraform-iacdevops-with-aws-codepipeline
+terraform-iacdevops-with-aws-codepipeline
